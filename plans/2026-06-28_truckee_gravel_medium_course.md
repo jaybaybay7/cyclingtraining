@@ -10,13 +10,14 @@ _Race: Sunday, June 28, 2026 (gravel, 106.5 km, 1233 m climbing). 26 days out as
 - Location: Truckee, CA (~1800 m altitude). Altitude bites in long aerobic efforts; arrive late or get there early, not the day-before-evening.
 - Fueling is a trainable skill. Rehearse 60-90 g carbs/hr on the long Saturdays.
 
-## Week 1 (Jun 01 - Jun 07) - Specific prep  ·  ~7.1 h
+## Week 1 (Jun 01 - Jun 07) - Specific prep  ·  ~9.1 h
 _Introduce race-specific load; build gravel durability._
 
 | Day | Date | Session | Time | Intent |
 |-----|------|---------|------|--------|
 | Tue | Jun 02 | Threshold over-unders | 75 min | 2 x 12 min as 2 min @ 245-258 W / 1 min @ 280-294 W. Lifts threshold and trains surge recovery. |
-| Thu | Jun 04 | Race-pace group ride + hockey (PM) | 95 min | Your race simulation. Cover surges and short climbs hard, ride the flats smart in the bunch. Hockey at night, so keep Friday clear. |
+| Wed | Jun 03 | Easy endurance (athlete-added) | 120 min | Z2 150-195 W, conversational, no surges. Bonus aerobic volume toward gravel durability. Keep it genuinely easy so it doesn't compromise Thursday. |
+| Thu | Jun 04 | Race-pace group ride + hockey (PM) | 95 min | Your race simulation. Cover surges and short climbs hard, ride the flats smart in the bunch. Hockey at night, so keep Friday clear. If legs are flat from the Tue/Wed block, ease off here. |
 | Sat | Jun 06 | Long gravel endurance | 180 min | 3 h mostly Z2 152-196 W on gravel. Practice fueling 60-80 g carbs/hr. Durability is the goal, not power. |
 | Sun | Jun 07 | Easy endurance spin | 75 min | Z2 150-185 W, conversational. Aerobic volume, flush the legs. |
 
