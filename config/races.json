@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Truckee Gravel - Medium Course",
+    "date": "2026-06-28",
+    "discipline": "gravel",
+    "priority": "A",
+    "distance_km": 106.5,
+    "ascent_m": 1233,
+    "location": "Truckee, CA (~1800 m altitude)",
+    "route_file": "Truckee Gravel Medium Course.gpx",
+    "notes": "Mostly flat-to-rolling with short punchy climbs. Limiter for this athlete is aerobic durability + threshold over 4+ hours, not the punches."
+  }
+]
