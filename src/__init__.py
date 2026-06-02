@@ -1,0 +1,1 @@
+"""Virtual cycling coach package."""

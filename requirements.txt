@@ -1,0 +1,4 @@
+requests>=2.31
+python-dotenv>=1.0
+# GarminDB is installed separately for wellness ingest:
+#   pip install garmindb
