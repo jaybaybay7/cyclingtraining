@@ -9,5 +9,14 @@
     "location": "Truckee, CA (~1800 m altitude)",
     "route_file": "Truckee Gravel Medium Course.gpx",
     "notes": "Mostly flat-to-rolling with short punchy climbs. Limiter for this athlete is aerobic durability + threshold over 4+ hours, not the punches."
+  },
+  {
+    "name": "Gravel Race (~60 mi)",
+    "date": "2026-06-07",
+    "discipline": "gravel",
+    "priority": "B",
+    "distance_km": 97,
+    "train_through": true,
+    "notes": "Train-through B race. Doubles as the long durability effort and a Truckee rehearsal: test fueling, pacing, tire/gear choice. No dedicated taper."
   }
 ]
