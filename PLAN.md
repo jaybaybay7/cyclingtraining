@@ -40,6 +40,8 @@ Five layers, orchestrated by the coach (Claude reasoning over the assembled cont
 ### 2. Analysis layer
 - **Power profile diagnostics** — mean-max curve across durations, rider-type classification,
   weakness ranking relative to road/gravel demands, trend (current vs all-time).
+- **Course analysis** — ingest a target race's route (FIT/GPX), measure distance, climbing,
+  gradient mix, and sustained climbs, then recommend the training emphasis the course rewards.
 - **Fitness model** — CTL/ATL/TSB (form), ramp rate, monotony and strain.
 - **HRV baseline engine** — rolling 7-day vs 60-day baseline with deviation flags; needs a
   warm-up window of history before it is trustworthy.
@@ -96,11 +98,16 @@ Athlete profile and credentials:
 Goals and constraints:
 - A-race calendar: dates, discipline (road/gravel), distance/duration, priority  ⏳ pending
 - Secondary races (B/C) to "train through," not taper for
-- Weekly time budget: total hours, which days are reliably available  ⏳ pending
-- Equipment: smart trainer + ERG? outdoor options?  ⏳ pending
-- Cross-training to keep on the calendar (hockey, climbing) and rough load
+- Race route files (FIT/GPX) for course-demand analysis  ⏳ optional, per race
+- Weekly time budget  ✅ 6-8 hrs over 4 rides
+- Ride days  ✅ Tue / Thu / Sat / Sun; off Mon / Wed / Fri (Fri = post-hockey recovery)
+- Thursday  ✅ race-pace group ride + ice hockey at night (big stacked-load day)
+- Long ride  ✅ one long weekend day (default Sat)
+- Equipment  ✅ outdoor only (no ERG; intervals by power target)
+- Cross-training  ✅ hockey Thu night, bouldering variable
 - Stated weak areas / goals, and any injury history or hard constraints
-- Auto-regulation preference  ✅ chosen: informational only (advisory)
+- Auto-regulation preference  ✅ informational only (advisory)
+- Athlete profile captured in `config/athlete_profile.json`
 
 ### B. Ongoing inputs (pulled or entered as we go)
 - Daily Garmin wellness: HRV, sleep score/stages, resting HR, Body Battery, stress
@@ -150,7 +157,9 @@ add-ons). Phases are a build sequence within one release.
 
 ## Open items before Phase 2
 
-1. A-race dates, disciplines, priorities.
-2. Weekly hours, reliably free days, equipment (ERG?).
-3. Which cross-training stays and its rough weekly load.
-4. Garmin login to stand up GarminDB.
+Resolved: weekly hours, ride days, equipment, cross-training (see `config/athlete_profile.json`).
+
+Still needed:
+1. A-race dates, disciplines, priorities (the keystone for periodization).
+2. Optional: target-race route files (FIT/GPX) for course-specific emphasis.
+3. Garmin login to stand up GarminDB.

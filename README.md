@@ -15,16 +15,21 @@ See `PLAN.md` for the architecture and `PRD.md` for requirements.
 ## Layout
 
 ```
+config/
+  athlete_profile.json # constraints, schedule, FTP, diagnosis
 src/
   config.py            # loads credentials from .env
   intervals_client.py  # Intervals.icu REST client (power, fitness, wellness, workout push)
   garmin_source.py     # GarminDB ingest for HRV, sleep, Body Battery (stub)
   analysis/
     power_profile.py   # rider-type diagnosis and weakness ranking (R3)
+    course.py          # FIT/GPX route ingest + course-demand analysis (R15)
     readiness.py       # HRV baseline + readiness score (R4) (stub)
   planning/
     periodization.py   # base/build/peak/taper from A-races (R5) (stub)
   coach.py             # orchestration entry point (stub)
+tests/
+  test_course.py       # smoke test for the course analyzer
 ```
 
 ## Setup
@@ -39,8 +44,10 @@ Never commit `.env`. The repo ignores it.
 ## Quick start
 
 ```bash
-python -m src.intervals_client      # prints your current profile + power curve
+python -m src.intervals_client       # prints your current profile + power curve
 python -m src.analysis.power_profile # prints the weakness diagnosis
+python -m src.analysis.course route.gpx  # analyzes a race route (FIT or GPX)
+python -m tests.test_course          # runs the course-analyzer smoke test
 ```
 
 ## The conversational coach

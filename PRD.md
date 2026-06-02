@@ -63,6 +63,8 @@ the part being under-trained.
    recreating intervals on the head unit.
 8. As the athlete, I want B/C races flagged as "train through" so that I don't taper for
    events that don't matter.
+9. As the athlete, I want to hand the coach the route file (FIT/GPX) for a target race so
+   that training is shaped by the actual course demands, not a generic template.
 9. (Edge) As the athlete, when wellness data is missing for a day, I want the coach to say so
    and fall back gracefully rather than invent a readiness score.
 
@@ -115,6 +117,12 @@ the part being under-trained.
     tradeoffs (load kept vs lost, key sessions protected) and applies the chosen one on
     confirmation.
   - The coach explains its reasoning and never silently changes the plan.
+- **R15 Course ingest from FIT/GPX**: accept a route file for a target event, analyze its
+  demands, and bias training toward them.
+  - Given a `.gpx` or `.fit` route, when it is analyzed, then distance, total climbing,
+    gradient distribution, and sustained climbs are reported with a recommended training
+    emphasis (e.g., sustained climbing -> threshold/durability; punchy -> repeated VO2max).
+  - GPX parses with no extra dependencies; FIT requires `fitdecode`.
 
 ### Nice-to-have (P1)
 - Multi-sport load accounting that models hockey/climbing fatigue more precisely.

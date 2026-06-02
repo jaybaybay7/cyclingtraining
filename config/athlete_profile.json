@@ -1,0 +1,40 @@
+{
+  "name": "jaymag",
+  "intervals_athlete_id": "i140486",
+  "weight_kg": 74,
+  "ftp": 272,
+  "lthr": 180,
+  "max_hr": 200,
+  "rider_type": "Explosive sprinter on an under-developed aerobic engine",
+  "priority_weaknesses": ["threshold", "vo2max", "aerobic_durability"],
+  "maintain": ["sprint"],
+
+  "weekly_hours_min": 6,
+  "weekly_hours_max": 8,
+  "indoor_setup": "outdoor_only",
+
+  "ride_days": ["Tue", "Thu", "Sat", "Sun"],
+  "off_days": ["Mon", "Wed", "Fri"],
+  "long_ride_day": "Sat",
+  "no_ride_windows": ["Fri AM (recovery after Thursday hockey)"],
+
+  "cross_training": [
+    {"sport": "ice_hockey", "day": "Thu", "time": "night", "load": "high_anaerobic"},
+    {"sport": "bouldering", "day": "variable", "load": "moderate_upper_body"}
+  ],
+
+  "session_template": {
+    "Tue": "Structured quality (threshold / VO2) - controllable, outdoor by power targets",
+    "Thu": "Race-pace group ride (hard, variable) + ice hockey at night",
+    "Sat": "Long aerobic / gravel - durability builder (longest ride of week)",
+    "Sun": "Endurance (moderate) - aerobic volume, keep it controlled"
+  },
+
+  "coaching_notes": [
+    "Only 4 rides/week and one long day: every session must earn its place, minimal junk miles.",
+    "Thursday is a big stacked-load day (race-pace group ride + hockey). Friday must stay recovery.",
+    "Two hard days (Tue, Thu) plus weekend volume leaves recovery on Mon/Wed/Fri - watch monotony.",
+    "Sprint is already a strength; spend almost no programmed time on it.",
+    "Outdoor only: intervals run on power targets by feel, plan tolerates weather moving sessions."
+  ]
+}
