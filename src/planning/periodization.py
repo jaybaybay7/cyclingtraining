@@ -41,6 +41,7 @@ class Session:
     name: str
     minutes: int
     intent: str
+    kind: str = "other"   # threshold | vo2 | over_unders | endurance | openers | group_ride | race
 
 
 @dataclass
@@ -61,58 +62,59 @@ def _sessions_for(phase: str, ftp: int, is_race_week: bool) -> dict[str, dict]:
     thu = {
         "name": "Race-pace group ride + hockey (PM)",
         "minutes": 95,
+        "kind": "group_ride",
         "intent": "Your race simulation. Cover surges and short climbs hard, ride the flats "
                   "smart in the bunch. Hockey at night, so keep Friday clear.",
     }
     if phase == "Specific prep":
         return {
-            "Tue": {"name": "Threshold over-unders", "minutes": 75,
+            "Tue": {"name": "Threshold over-unders", "minutes": 75, "kind": "over_unders",
                     "intent": f"2 x 12 min as 2 min @ {watts(ftp,0.90,0.95)} / 1 min @ "
                               f"{watts(ftp,1.03,1.08)}. Lifts threshold and trains surge recovery."},
             "Thu": thu,
-            "Sat": {"name": "Long gravel endurance", "minutes": 180,
+            "Sat": {"name": "Long gravel endurance", "minutes": 180, "kind": "endurance",
                     "intent": f"3 h mostly Z2 {watts(ftp,0.56,0.72)} on gravel. Practice "
                               f"fueling 60-80 g carbs/hr. Durability is the goal, not power."},
-            "Sun": {"name": "Easy endurance spin", "minutes": 75,
+            "Sun": {"name": "Easy endurance spin", "minutes": 75, "kind": "endurance",
                     "intent": f"Z2 {watts(ftp,0.55,0.68)}, conversational. Aerobic volume, flush the legs."},
         }
     if phase == "Peak load":
         return {
-            "Tue": {"name": "VO2 + threshold", "minutes": 80,
+            "Tue": {"name": "VO2 + threshold", "minutes": 80, "kind": "vo2",
                     "intent": f"5 x 3 min @ {watts(ftp,1.08,1.15)} (3 min easy between), then "
                               f"10 min @ {watts(ftp,0.92,0.98)}. Top-end for surges over a threshold base."},
             "Thu": {**thu, "minutes": 100},
-            "Sat": {"name": "Long gravel - peak (race rehearsal)", "minutes": 225,
+            "Sat": {"name": "Long gravel - peak (race rehearsal)", "minutes": 225, "kind": "endurance",
                     "intent": f"3.75 h, longest ride of the block. Mostly Z2 with 3-4 climbs "
                               f"at race effort {watts(ftp,0.88,0.98)}. Full fueling rehearsal: "
                               f"food, bottles, what you'll wear and carry."},
-            "Sun": {"name": "Easy endurance spin", "minutes": 75,
+            "Sun": {"name": "Easy endurance spin", "minutes": 75, "kind": "endurance",
                     "intent": f"Z2 {watts(ftp,0.55,0.68)} recovery-paced. Keep it gentle after the big Saturday."},
         }
     if phase == "Sharpen":
         return {
-            "Tue": {"name": "Threshold / sweet spot", "minutes": 70,
+            "Tue": {"name": "Threshold / sweet spot", "minutes": 70, "kind": "threshold",
                     "intent": f"2 x 12 min @ {watts(ftp,0.92,1.00)}. Hold steady, smooth power. "
                               f"Building usable race-pace strength."},
             "Thu": {**thu, "minutes": 90},
-            "Sat": {"name": "Race-effort gravel", "minutes": 150,
+            "Sat": {"name": "Race-effort gravel", "minutes": 150, "kind": "threshold",
                     "intent": f"2.5 h with 4 x 6 min at race intensity {watts(ftp,0.90,1.00)} "
                               f"on rolling/gravel terrain. Dial in pacing and gearing, not duration."},
-            "Sun": {"name": "Easy endurance spin", "minutes": 60,
+            "Sun": {"name": "Easy endurance spin", "minutes": 60, "kind": "endurance",
                     "intent": f"Z2 {watts(ftp,0.55,0.68)} short and easy. Start shedding fatigue."},
         }
     # Taper & Race
     return {
-        "Tue": {"name": "Openers", "minutes": 50,
+        "Tue": {"name": "Openers", "minutes": 50, "kind": "openers",
                 "intent": f"3 x 3 min @ {watts(ftp,0.92,0.98)} + 3 x 30 s fast, light spin "
                           f"between. Stay sharp, accumulate no fatigue."},
-        "Thu": {"name": "Easy group ride or spin + hockey (PM)", "minutes": 60,
+        "Thu": {"name": "Easy group ride or spin + hockey (PM)", "minutes": 60, "kind": "endurance",
                 "intent": "Keep it social and easy this week, do NOT bury yourself on the group "
                           "ride. Hockey optional / light if you can. Freshness is the priority."},
-        "Sat": {"name": "Pre-race openers", "minutes": 40,
+        "Sat": {"name": "Pre-race openers", "minutes": 40, "kind": "openers",
                 "intent": f"Easy Z1 with 3 x 1 min building to race pace {watts(ftp,0.90,1.00)} "
                           f"and 3 x 10 s sprints. Primes the legs for tomorrow. Check the bike, pack."},
-        "Sun": {"name": "RACE: Truckee Gravel Medium (106 km)", "minutes": 270,
+        "Sun": {"name": "RACE: Truckee Gravel Medium (106 km)", "minutes": 270, "kind": "race",
                 "intent": "Pace the first hour conservatively (altitude + long day). Fuel from the "
                           "gun, 60-90 g carbs/hr. Use your strength: stay efficient on flats, cover "
                           "moves on the climbs, save matches for the back third."},
@@ -140,7 +142,8 @@ PHASE_FOCUS = {
 }
 
 
-def build_plan(profile: dict, race: dict, today: date) -> list[Week]:
+def build_plan(profile: dict, race: dict, today: date,
+               include_past: bool = False) -> list[Week]:
     ftp = int(profile["ftp"])
     ride_days = profile["ride_days"]
     race_date = date.fromisoformat(race["date"])
@@ -160,15 +163,38 @@ def build_plan(profile: dict, race: dict, today: date) -> list[Week]:
         sessions: list[Session] = []
         for day in ride_days:
             d = wk_monday + timedelta(days=DAY_IDX[day])
-            if d < today or d > race_date:
+            if (not include_past and d < today) or d > race_date:
                 continue
             t = templ.get(day)
             if not t:
                 continue
-            sessions.append(Session(day, d, t["name"], t["minutes"], t["intent"]))
+            sessions.append(
+                Session(day, d, t["name"], t["minutes"], t["intent"], t.get("kind", "other"))
+            )
         label = f"Week {w + 1} ({wk_monday:%b %d} - {wk_monday + timedelta(days=6):%b %d})"
         weeks.append(Week(label, phase, PHASE_FOCUS[phase], sessions))
     return weeks
+
+
+def prescribed_for(target: date, profile: dict | None = None,
+                   race: dict | None = None) -> Session | None:
+    """Return the prescribed Session for a given date, or None.
+
+    Note: reflects the A-race template; B/C-race overrides made directly in a plan
+    doc are not yet modeled here.
+    """
+    profile = profile or _load("athlete_profile.json")
+    if race is None:
+        a = sorted([r for r in _load("races.json") if r.get("priority") == "A"],
+                   key=lambda r: r["date"])
+        if not a:
+            return None
+        race = a[0]
+    for wk in build_plan(profile, race, date.today(), include_past=True):
+        for s in wk.sessions:
+            if s.date == target:
+                return s
+    return None
 
 
 # ---- render --------------------------------------------------------------

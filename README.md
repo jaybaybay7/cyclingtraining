@@ -24,12 +24,17 @@ src/
   analysis/
     power_profile.py   # rider-type diagnosis and weakness ranking (R3)
     course.py          # FIT/GPX route ingest + course-demand analysis (R15)
+    compliance.py      # stream-based session classifier vs prescribed plan (R11)
     readiness.py       # HRV baseline + readiness score (R4) (stub)
   planning/
-    periodization.py   # base/build/peak/taper from A-races (R5) (stub)
+    periodization.py   # base/build/peak/taper from A-races; prescribed_for() (R5/R6)
   coach.py             # orchestration entry point (stub)
+logs/
+  training_log.md      # completed-vs-prescribed + RPE, accumulating
+plans/                 # generated dated plans
 tests/
   test_course.py       # smoke test for the course analyzer
+  test_compliance.py   # session-classifier tests
 ```
 
 ## Setup
@@ -47,7 +52,10 @@ Never commit `.env`. The repo ignores it.
 python -m src.intervals_client       # prints your current profile + power curve
 python -m src.analysis.power_profile # prints the weakness diagnosis
 python -m src.analysis.course route.gpx  # analyzes a race route (FIT or GPX)
+python -m src.planning.periodization --write  # generate the dated plan
+python -m src.analysis.compliance --days 10   # classify recent rides vs the plan
 python -m tests.test_course          # runs the course-analyzer smoke test
+python -m tests.test_compliance      # runs the session-classifier tests
 ```
 
 ## The conversational coach

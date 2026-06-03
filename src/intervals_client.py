@@ -78,6 +78,22 @@ class IntervalsClient:
     def wellness(self, oldest: str, newest: str) -> list[dict]:
         return self._get("/wellness", oldest=oldest, newest=newest)
 
+    def streams(self, activity_id: str,
+                types: tuple[str, ...] = ("watts", "heartrate", "time")) -> dict[str, list]:
+        """Return {stream_type: [samples]} for an activity. The streams endpoint
+        lives under /activity/{id}, not /athlete/{id}, so we build the URL directly."""
+        r = requests.get(
+            f"{BASE}/activity/{activity_id}/streams",
+            auth=self._auth,
+            params={"types": ",".join(types)},
+            timeout=60,
+        )
+        r.raise_for_status()
+        data = r.json()
+        if isinstance(data, list):
+            return {x["type"]: x["data"] for x in data}
+        return data
+
     # --- writes (R9: push structured workouts) -----------------------------
     def push_workout(self, event: dict) -> dict:
         """Create a calendar event/workout. event follows the Intervals.icu
