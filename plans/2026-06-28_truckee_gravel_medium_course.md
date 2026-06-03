@@ -26,7 +26,7 @@ _Biggest week. Longest gravel ride + top-end. Then we only subtract._
 
 | Day | Date | Session | Time | Intent |
 |-----|------|---------|------|--------|
-| Tue | Jun 09 | VO2 + threshold | 80 min | 5 x 3 min @ 294-313 W (3 min easy between), then 10 min @ 250-267 W. Top-end for surges over a threshold base. |
+| Tue | Jun 09 | VO2 + threshold (SOLO, structured) | 80 min | Ride this one ALONE, not as a crit/group ride, so you actually hold the targets. 5 x 3 min @ 294-313 W (3 min easy), then 10 min @ 250-267 W. This is the repeatability work that stops you getting shelled at the end of repeated efforts (your Jun 2 RPE 8). The group rides already cover the punch. |
 | Thu | Jun 11 | Race-pace group ride + hockey (PM) | 100 min | Your race simulation. Cover surges and short climbs hard, ride the flats smart in the bunch. Hockey at night, so keep Friday clear. |
 | Sat | Jun 13 | Long gravel - peak (race rehearsal) | 225 min | 3.75 h, longest ride of the block. Mostly Z2 with 3-4 climbs at race effort 239-267 W. Full fueling rehearsal: food, bottles, what you'll wear and carry. |
 | Sun | Jun 14 | Easy endurance spin | 75 min | Z2 150-185 W recovery-paced. Keep it gentle after the big Saturday. |
