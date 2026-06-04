@@ -28,6 +28,7 @@ src/
     readiness.py       # HRV baseline + readiness score (R4) (stub)
   planning/
     periodization.py   # base/build/peak/taper from A-races; prescribed_for() (R5/R6)
+    workout_builder.py # structured workouts -> Intervals.icu calendar -> Garmin (R9)
   coach.py             # orchestration entry point (stub)
 logs/
   training_log.md      # completed-vs-prescribed + RPE, accumulating

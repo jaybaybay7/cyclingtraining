@@ -95,11 +95,33 @@ class IntervalsClient:
         return data
 
     # --- writes (R9: push structured workouts) -----------------------------
-    def push_workout(self, event: dict) -> dict:
-        """Create a calendar event/workout. event follows the Intervals.icu
-        events schema (category 'WORKOUT', start_date_local, type, and a
-        structured 'workout_doc' or description). Implemented in Phase 3."""
-        raise NotImplementedError("Workout push lands in Phase 3 (R9).")
+    def create_event(self, event: dict) -> dict:
+        """Create a calendar event. For a structured workout pass category
+        'WORKOUT', start_date_local, type 'Ride', name, and a `description` in
+        Intervals.icu's workout-text syntax. Intervals.icu parses it into a
+        workout_doc and syncs it to the Garmin head unit."""
+        r = requests.post(
+            f"{BASE}/athlete/{self._aid}/events", auth=self._auth, json=event, timeout=30
+        )
+        r.raise_for_status()
+        return r.json()
+
+    def update_event(self, event_id: int, fields: dict) -> dict:
+        r = requests.put(
+            f"{BASE}/athlete/{self._aid}/events/{event_id}",
+            auth=self._auth, json=fields, timeout=30,
+        )
+        r.raise_for_status()
+        return r.json()
+
+    def delete_event(self, event_id: int) -> None:
+        r = requests.delete(
+            f"{BASE}/athlete/{self._aid}/events/{event_id}", auth=self._auth, timeout=30
+        )
+        r.raise_for_status()
+
+    def events(self, oldest: str, newest: str, category: str = "WORKOUT") -> list[dict]:
+        return self._get("/events", oldest=oldest, newest=newest, category=category)
 
 
 if __name__ == "__main__":
