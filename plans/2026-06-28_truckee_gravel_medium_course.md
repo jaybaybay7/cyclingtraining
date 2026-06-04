@@ -10,14 +10,14 @@ _Race: Sunday, June 28, 2026 (gravel, 106.5 km, 1233 m climbing). 26 days out as
 - Location: Truckee, CA (~1800 m altitude). Altitude bites in long aerobic efforts; arrive late or get there early, not the day-before-evening.
 - Fueling is a trainable skill. Rehearse 60-90 g carbs/hr on the long Saturdays.
 
-## Week 1 (Jun 01 - Jun 07) - Specific prep + B race  ·  ~9.8 h
+## Week 1 (Jun 01 - Jun 07) - Specific prep + B race  ·  ~9.4 h
 _Introduce race-specific load; build gravel durability. Capped by Sunday's 60 mi B race, which is the week's key long effort._
 
 | Day | Date | Session | Time | Intent |
 |-----|------|---------|------|--------|
 | Tue | Jun 02 | Threshold over-unders | 75 min | 2 x 12 min as 2 min @ 245-258 W / 1 min @ 280-294 W. Lifts threshold and trains surge recovery. |
 | Wed | Jun 03 | Easy endurance (athlete-added) | 120 min | Z2 150-195 W, conversational, no surges. Bonus aerobic volume toward gravel durability. Keep it genuinely easy so it doesn't compromise Thursday. |
-| Thu | Jun 04 | Race-pace group ride + hockey (PM) | 95 min | Your race simulation. Cover surges and short climbs hard, ride the flats smart in the bunch. Hockey at night, so keep Friday clear. If legs are flat from the Tue/Wed block, ease off here. |
+| Thu | Jun 04 | Solo sweet-spot threshold (group ride cancelled) + hockey PM | 70 min | Group ride is off, so finally get the sustained threshold you missed Tuesday. 15 min warmup, then 2 x 15 min @ 240-260 W (sweet spot) with 5 min easy between, 10 min cool down. Controlled on purpose: race Sunday, hockey tonight, loaded week. Legs great? Lift the middles to 250-272 W (threshold). Legs flat? Drop to 2 x 12 min. |
 | Sat | Jun 06 | Short endurance / pre-race openers | 60 min | Easy Z2 150-185 W with 3 x 1 min build to race pace and a few 10 s spin-ups. Prime the legs for Sunday, add no fatigue. |
 | Sun | Jun 07 | B RACE: ~60 mi gravel (train-through) | 240 min | Truckee rehearsal. Test fueling 60-90 g carbs/hr, pacing, tire/gear choice. This is your long durability effort for the week. No taper for it. |
 

@@ -18,6 +18,10 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 - **Actual:** 100 min, avg 141 W, NP 174 W, IF 0.64, avg HR 118, 498 m climbing.
 - **RPE:** 2-3/10.
 - **Read:** Executed correctly. HR 118 confirms genuinely aerobic. 20 min short of 2 h, immaterial.
+- **Wed PM cross-training:** Volleyball 63 min, avg HR 138, TSS 60, RPE 4/10; plus two short
+  spins (12 + 6 min). Wednesday total ~140 TSS once cross-training is counted.
+- **Read:** Cross-training is stacking up (bouldering Mon, strength Tue, volleyball Wed). Low
+  RPE each, but real cardiovascular load that the plan doesn't formally track. Watch freshness into Sun.
 
 ### Sun Jun 7 - ~60 mi gravel B race (train-through) - pending
 - Log fueling (g carbs/hr), pacing, how legs felt on fatigue, result/place, RPE.
