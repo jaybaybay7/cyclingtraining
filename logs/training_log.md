@@ -23,5 +23,16 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 - **Read:** Cross-training is stacking up (bouldering Mon, strength Tue, volleyball Wed). Low
   RPE each, but real cardiovascular load that the plan doesn't formally track. Watch freshness into Sun.
 
+### Thu Jun 4 - prescribed: Solo sweet-spot threshold (pushed to Garmin)
+- **Actual:** Missed. Slept in, reported significant fatigue.
+- **Read:** Self-regulated back-off after a heavy cross-training front-half (crit RPE 8,
+  volleyball, strength, bouldering). Correct call before Sunday's race. Thu + Fri now
+  function as a taper into the B race. Threshold stimulus deferred to Week 2 (protected solo).
+- **Flag:** Cross-training load is repeatedly outrunning the bike plan. Week 2 peak may need
+  softening depending on Sunday. This is the clearest case yet for connecting Garmin HRV/sleep.
+
+### Fri Jun 5 - rest (recommended)
+- Full rest, or 30 min easy Z1 only if stiff. Protect freshness for Sunday.
+
 ### Sun Jun 7 - ~60 mi gravel B race (train-through) - pending
 - Log fueling (g carbs/hr), pacing, how legs felt on fatigue, result/place, RPE.
