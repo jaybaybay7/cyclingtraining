@@ -35,6 +35,11 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 - Athlete opted for 2h easy Z2 instead of rest. Fine as bonus aerobic volume if kept genuinely
   easy. Pattern: recovery days keep filling with volume (Wed 2h, Fri 2h) - watch cumulative load.
 
+### Sat Jun 6 - OFF (athlete choice)
+- Athlete taking the day off. Openers folded into Friday so the legs still get a wake-up.
+  Note: Thu rest + Fri easy + Sat off = three days with no real intensity before Sunday's
+  climb, hence the Friday openers to avoid arriving flat.
+
 ### Sun Jun 7 - 75 km endurance + timed climb (6 mi / 1500 ft) - pending
 - Plan: easy Z2 all day except the climb, which is a ~30-40 min hard threshold effort.
 - Log: climb time + avg/NP power, how the legs felt, fueling (g carbs/hr), RPE. The climb is a
