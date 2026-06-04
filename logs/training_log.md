@@ -31,8 +31,9 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 - **Flag:** Cross-training load is repeatedly outrunning the bike plan. Week 2 peak may need
   softening depending on Sunday. This is the clearest case yet for connecting Garmin HRV/sleep.
 
-### Fri Jun 5 - rest (recommended)
-- Full rest, or 30 min easy Z1 only if stiff. Protect freshness for Sunday.
+### Fri Jun 5 - easy spin 2h (athlete choice)
+- Athlete opted for 2h easy Z2 instead of rest. Fine as bonus aerobic volume if kept genuinely
+  easy. Pattern: recovery days keep filling with volume (Wed 2h, Fri 2h) - watch cumulative load.
 
 ### Sun Jun 7 - 75 km endurance + timed climb (6 mi / 1500 ft) - pending
 - Plan: easy Z2 all day except the climb, which is a ~30-40 min hard threshold effort.
