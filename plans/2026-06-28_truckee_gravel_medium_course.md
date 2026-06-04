@@ -10,7 +10,7 @@ _Race: Sunday, June 28, 2026 (gravel, 106.5 km, 1233 m climbing). 26 days out as
 - Location: Truckee, CA (~1800 m altitude). Altitude bites in long aerobic efforts; arrive late or get there early, not the day-before-evening.
 - Fueling is a trainable skill. Rehearse 60-90 g carbs/hr on the long Saturdays.
 
-## Week 1 (Jun 01 - Jun 07) - Specific prep + timed climb  ·  ~8.8 h (Thu missed; Sat off; openers on Fri)
+## Week 1 (Jun 01 - Jun 07) - Specific prep + timed climb  ·  ~9.4 h (Thu missed; openers Sat AM)
 _Introduce race-specific load; build gravel durability. Capped by Sunday's 60 mi B race, which is the week's key long effort._
 
 | Day | Date | Session | Time | Intent |
@@ -18,8 +18,8 @@ _Introduce race-specific load; build gravel durability. Capped by Sunday's 60 mi
 | Tue | Jun 02 | Threshold over-unders | 75 min | 2 x 12 min as 2 min @ 245-258 W / 1 min @ 280-294 W. Lifts threshold and trains surge recovery. |
 | Wed | Jun 03 | Easy endurance (athlete-added) | 120 min | Z2 150-195 W, conversational, no surges. Bonus aerobic volume toward gravel durability. Keep it genuinely easy so it doesn't compromise Thursday. |
 | Thu | Jun 04 | MISSED: slept in, fatigued (became rest) | 0 min | Skipped the sweet-spot threshold due to fatigue from a heavy cross-training week (crit + volleyball + strength + bouldering). Right call with a race Sunday. Threshold work moves to Week 2's protected solo session. |
-| Fri | Jun 05 | Easy spin 2h + openers (athlete choice) | 120 min | Mostly Z1-low Z2 150-185 W. In the last ~25 min add openers: 3 x 1 min building to 255-275 W (easy between) + 3 x 15 s fast spin-ups, then spin home easy. With Sat now off, this is what keeps the legs primed for Sunday's climb. |
-| Sat | Jun 06 | OFF (athlete choice) | 0 min | Full rest. Openers moved into Friday's ride so the legs still get primed before Sunday's climb. |
+| Fri | Jun 05 | Easy spin 2h (athlete choice) | 120 min | Pure Z1-low Z2 150-185 W, conversational, no hard efforts. Openers move to Saturday AM (better placed the day before). Keep it genuinely easy. |
+| Sat | Jun 06 | Short opener (AM) | 35 min | Day-before primer: 10 min easy, then 3 x 1 min building to 255-275 W (2 min easy between), 3 x 15 s fast spin-ups, easy home. Wakes the legs for Sunday with no fatigue. |
 | Sun | Jun 07 | 75 km endurance + 6 mi / 1500 ft timed climb | ~210 min | Easy Z2 all day except the climb. Climb = a ~30-40 min threshold effort: hold back the first 3-5 min, settle ~255-275 W (about FTP), build and empty the tank in the last 5. Fuel 60-90 g carbs/hr. Durability + a real threshold test for Truckee. |
 
 ## Week 2 (Jun 08 - Jun 14) - Peak load  ·  ~8.0 h
