@@ -34,5 +34,7 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 ### Fri Jun 5 - rest (recommended)
 - Full rest, or 30 min easy Z1 only if stiff. Protect freshness for Sunday.
 
-### Sun Jun 7 - ~60 mi gravel B race (train-through) - pending
-- Log fueling (g carbs/hr), pacing, how legs felt on fatigue, result/place, RPE.
+### Sun Jun 7 - 75 km endurance + timed climb (6 mi / 1500 ft) - pending
+- Plan: easy Z2 all day except the climb, which is a ~30-40 min hard threshold effort.
+- Log: climb time + avg/NP power, how the legs felt, fueling (g carbs/hr), RPE. The climb is a
+  strong ~35 min power data point to refine FTP and shape Week 2.

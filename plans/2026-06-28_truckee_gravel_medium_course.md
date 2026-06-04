@@ -10,7 +10,7 @@ _Race: Sunday, June 28, 2026 (gravel, 106.5 km, 1233 m climbing). 26 days out as
 - Location: Truckee, CA (~1800 m altitude). Altitude bites in long aerobic efforts; arrive late or get there early, not the day-before-evening.
 - Fueling is a trainable skill. Rehearse 60-90 g carbs/hr on the long Saturdays.
 
-## Week 1 (Jun 01 - Jun 07) - Specific prep + B race  ·  ~8.3 h (Thu missed, fatigue)
+## Week 1 (Jun 01 - Jun 07) - Specific prep + timed climb  ·  ~7.8 h (Thu missed, fatigue)
 _Introduce race-specific load; build gravel durability. Capped by Sunday's 60 mi B race, which is the week's key long effort._
 
 | Day | Date | Session | Time | Intent |
@@ -20,7 +20,7 @@ _Introduce race-specific load; build gravel durability. Capped by Sunday's 60 mi
 | Thu | Jun 04 | MISSED: slept in, fatigued (became rest) | 0 min | Skipped the sweet-spot threshold due to fatigue from a heavy cross-training week (crit + volleyball + strength + bouldering). Right call with a race Sunday. Threshold work moves to Week 2's protected solo session. |
 | Fri | Jun 05 | Rest (recommended) | 0 min | Stay off. Optional 30 min very easy Z1 spin only if stiff. You're fatigued and racing Sunday; back-to-back Thu/Fri rest means fresher legs for the B race. |
 | Sat | Jun 06 | Short endurance / pre-race openers | 60 min | Easy Z2 150-185 W with 3 x 1 min build to race pace and a few 10 s spin-ups. Prime the legs for Sunday, add no fatigue. |
-| Sun | Jun 07 | B RACE: ~60 mi gravel (train-through) | 240 min | Truckee rehearsal. Test fueling 60-90 g carbs/hr, pacing, tire/gear choice. This is your long durability effort for the week. No taper for it. |
+| Sun | Jun 07 | 75 km endurance + 6 mi / 1500 ft timed climb | ~210 min | Easy Z2 all day except the climb. Climb = a ~30-40 min threshold effort: hold back the first 3-5 min, settle ~255-275 W (about FTP), build and empty the tank in the last 5. Fuel 60-90 g carbs/hr. Durability + a real threshold test for Truckee. |
 
 ## Week 2 (Jun 08 - Jun 14) - Peak load  ·  ~8.0 h
 _Biggest week. Longest gravel ride + top-end. Then we only subtract._

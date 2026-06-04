@@ -11,12 +11,13 @@
     "notes": "Mostly flat-to-rolling with short punchy climbs. Limiter for this athlete is aerobic durability + threshold over 4+ hours, not the punches."
   },
   {
-    "name": "Gravel Race (~60 mi)",
+    "name": "Endurance ride + timed climb",
     "date": "2026-06-07",
     "discipline": "gravel",
     "priority": "B",
-    "distance_km": 97,
+    "distance_km": 75,
+    "format": "Long endurance ride with ONE timed climb (~6 mi / 1500 ft, ~4.8% avg). Hard on the climb only, easy everywhere else. Not a mass-start race.",
     "train_through": true,
-    "notes": "Train-through B race. Doubles as the long durability effort and a Truckee rehearsal: test fueling, pacing, tire/gear choice. No dedicated taper."
+    "notes": "The timed climb is a ~30-40 min sustained near-threshold effort - exactly the limiter. Doubles as durability + a threshold test. Pull the segment afterward for an eFTP / ~35 min power data point to refine FTP and Week 2."
   }
 ]
