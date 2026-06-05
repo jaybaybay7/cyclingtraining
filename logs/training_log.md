@@ -31,9 +31,16 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 - **Flag:** Cross-training load is repeatedly outrunning the bike plan. Week 2 peak may need
   softening depending on Sunday. This is the clearest case yet for connecting Garmin HRV/sleep.
 
-### Fri Jun 5 - easy spin 2h (athlete choice)
-- Athlete opted for 2h easy Z2 instead of rest. Fine as bonus aerobic volume if kept genuinely
-  easy. Pattern: recovery days keep filling with volume (Wed 2h, Fri 2h) - watch cumulative load.
+### Fri Jun 5 - intended easy 2h spin
+- **Actual:** 124 min, IF 0.79, TSS 128, NP 214, avg 156, avg HR 130, 720 m climbing.
+  VI 1.34, ~16 surges/hr - ran as a tempo ride with punches, NOT the easy Z1-Z2 planned.
+- **RPE:** 4/10, felt strong on light sleep.
+- **Read:** A 128-TSS ride feeling like a 4 is a strong freshness/form signal (hard felt easy,
+  the opposite of a fatigue flag). But it's a real training day - 3rd "easy" day this week to
+  become a workout. Adds fatigue before Sunday; keep Sat openers minimal, Sunday's climb is the
+  priority.
+- **Flag:** Sleep was low despite feeling great. Sleep debt accumulates; HRV would catch whether
+  it's biting before he feels it. Strongest case yet for connecting Garmin.
 
 ### Sat Jun 6 - short opener (AM)
 - Switched from off to a day-before opener (~35 min: builds + spin-ups). Better placement than
