@@ -20,12 +20,12 @@ config/
 src/
   config.py            # loads credentials from .env
   intervals_client.py  # Intervals.icu REST client (power, fitness, wellness, workout push)
-  garmin_source.py     # GarminDB ingest for HRV, sleep, Body Battery (stub)
+  garmin_source.py     # Garmin ingest: HRV, sleep, Body Battery, RHR -> data/ (R2)
   analysis/
     power_profile.py   # rider-type diagnosis and weakness ranking (R3)
     course.py          # FIT/GPX route ingest + course-demand analysis (R15)
     compliance.py      # stream-based session classifier vs prescribed plan (R11)
-    readiness.py       # HRV baseline + readiness score (R4) (stub)
+    readiness.py       # HRV baseline + green/amber/red readiness (R4)
   planning/
     periodization.py   # base/build/peak/taper from A-races; prescribed_for() (R5/R6)
     workout_builder.py # structured workouts -> Intervals.icu calendar -> Garmin (R9)
@@ -55,8 +55,11 @@ python -m src.analysis.power_profile # prints the weakness diagnosis
 python -m src.analysis.course route.gpx  # analyzes a race route (FIT or GPX)
 python -m src.planning.periodization --write  # generate the dated plan
 python -m src.analysis.compliance --days 10   # classify recent rides vs the plan
+python -m src.garmin_source --days 90    # pull Garmin wellness (needs GARMIN_* in .env)
+python -m src.analysis.readiness         # today's readiness from the pulled data
 python -m tests.test_course          # runs the course-analyzer smoke test
 python -m tests.test_compliance      # runs the session-classifier tests
+python -m tests.test_readiness       # runs the readiness-scoring tests
 ```
 
 ## The conversational coach

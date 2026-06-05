@@ -42,9 +42,9 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 - **Flag:** Sleep was low despite feeling great. Sleep debt accumulates; HRV would catch whether
   it's biting before he feels it. Strongest case yet for connecting Garmin.
 
-### Sat Jun 6 - short opener (AM)
-- Switched from off to a day-before opener (~35 min: builds + spin-ups). Better placement than
-  Friday: priming the day before the effort is the classic approach. Friday stays pure easy.
+### Sat Jun 6 - OFF
+- Openers skipped (athlete busy + already opened by Friday's tempo ride). Freshness for Sunday's
+  climb prioritized. Pre-Race Openers workout removed from the Intervals.icu calendar.
 
 ### Sun Jun 7 - 75 km endurance + timed climb (6 mi / 1500 ft) - pending
 - Plan: easy Z2 all day except the climb, which is a ~30-40 min hard threshold effort.

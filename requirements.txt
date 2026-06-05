@@ -1,4 +1,4 @@
 requests>=2.31
 python-dotenv>=1.0
-# GarminDB is installed separately for wellness ingest:
-#   pip install garmindb
+garminconnect>=0.2   # Garmin wellness: HRV, sleep, Body Battery, resting HR
+garth>=0.4           # Garmin auth (token cache + MFA)
