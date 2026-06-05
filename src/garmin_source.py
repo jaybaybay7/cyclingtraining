@@ -46,17 +46,22 @@ class GarminSource:
 
     def login(self):
         from garminconnect import Garmin
-        try:                                   # resume cached session (no MFA)
+        os.makedirs(TOKENSTORE, exist_ok=True)
+        try:                                   # resume cached session (no creds/MFA)
             self.api = Garmin()
             self.api.login(TOKENSTORE)
-        except Exception:                      # fresh login (may need MFA once)
-            if not self.cfg.garmin_email or not self.cfg.garmin_password:
-                raise RuntimeError("Set GARMIN_EMAIL and GARMIN_PASSWORD in .env")
-            self.api = Garmin(email=self.cfg.garmin_email,
-                              password=self.cfg.garmin_password,
-                              prompt_mfa=_mfa_prompt)
-            self.api.login()
-            self.api.garth.dump(TOKENSTORE)
+            if getattr(self.api, "display_name", None):
+                return self
+        except Exception:
+            pass
+        # Fresh login. prompt_mfa handles the code interactively; passing TOKENSTORE
+        # to login() makes garminconnect persist the tokens so future runs skip MFA.
+        if not self.cfg.garmin_email or not self.cfg.garmin_password:
+            raise RuntimeError("Set GARMIN_EMAIL and GARMIN_PASSWORD in .env")
+        self.api = Garmin(email=self.cfg.garmin_email,
+                          password=self.cfg.garmin_password,
+                          prompt_mfa=_mfa_prompt)
+        self.api.login(TOKENSTORE)
         return self
 
     # --- defensive extractors (Garmin JSON shapes vary by account/firmware) ---
