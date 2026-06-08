@@ -8,7 +8,11 @@ _Race: Sunday, June 28, 2026 (gravel, 106.5 km, 1233 m climbing). 26 days out as
 **Race-specific notes**
 - Course: Mostly flat-to-rolling with short punchy climbs. Limiter for this athlete is aerobic durability + threshold over 4+ hours, not the punches.
 - Location: Truckee, CA (~1800 m altitude). Altitude bites in long aerobic efforts; arrive late or get there early, not the day-before-evening.
-- Fueling is a trainable skill. Rehearse 60-90 g carbs/hr on the long Saturdays.
+- Fueling is a trainable skill and was the hidden cost at Condor (607 kJ + 21 hard punches in
+  the legs underfueled before the timed climb -> the mid-effort power crater). Rehearse 80-90 g
+  carbs/hr from the START on the long Saturdays; eat before you're hungry.
+- Durability (making power deep into a ride) is the limiter behind the fade. Built by long rides
+  with efforts back-loaded onto tired legs; a season-long project, but started now.
 
 ## Week 1 (Jun 01 - Jun 07) - Specific prep + timed climb  ·  ~8.7 h (Thu missed; Sat off)
 _Introduce race-specific load; build gravel durability. Capped by Sunday's 60 mi B race, which is the week's key long effort._
@@ -23,13 +27,15 @@ _Introduce race-specific load; build gravel durability. Capped by Sunday's 60 mi
 | Sun | Jun 07 | 75 km endurance + 6 mi / 1500 ft timed climb | ~210 min | Easy Z2 all day except the climb. Climb = a ~30-40 min threshold effort: hold back the first 3-5 min, settle ~255-275 W (about FTP), build and empty the tank in the last 5. Fuel 60-90 g carbs/hr. Durability + a real threshold test for Truckee. |
 
 ## Week 2 (Jun 08 - Jun 14) - Peak load  ·  ~8.0 h
-_Biggest week. Longest gravel ride + top-end. Then we only subtract._
+_Biggest week. Longest gravel ride with threshold efforts back-loaded onto tired legs
+(durability), plus solo top-end Tuesday. Fueling is now a trained skill: 80-90 g/hr. Then we
+only subtract._
 
 | Day | Date | Session | Time | Intent |
 |-----|------|---------|------|--------|
 | Tue | Jun 09 | VO2 + threshold (SOLO, structured) | 80 min | Ride this one ALONE, not as a crit/group ride, so you actually hold the targets. 5 x 3 min @ 294-313 W (3 min easy), then 10 min @ 250-267 W. This is the repeatability work that stops you getting shelled at the end of repeated efforts (your Jun 2 RPE 8). The group rides already cover the punch. |
 | Thu | Jun 11 | Race-pace group ride + hockey (PM) | 100 min | Your race simulation. Cover surges and short climbs hard, ride the flats smart in the bunch. Hockey at night, so keep Friday clear. |
-| Sat | Jun 13 | Long gravel - peak (race rehearsal) | 225 min | 3.75 h, longest ride of the block. Mostly Z2 with 3-4 climbs at race effort 239-267 W. Full fueling rehearsal: food, bottles, what you'll wear and carry. |
+| Sat | Jun 13 | Long gravel - peak + back-loaded threshold | 225 min | 3.75 h, longest ride of the block, durability-specific. Easy Z2 the first ~2.5 h, THEN 3 x 10 min @ 245-265 W in the final hour, on tired legs (that's the point - it trains the fade you hit at Condor). Fuel 80-90 g carbs/hr FROM THE START, eat before you're hungry. |
 | Sun | Jun 14 | Easy endurance spin | 75 min | Z2 150-185 W recovery-paced. Keep it gentle after the big Saturday. |
 
 ## Week 3 (Jun 15 - Jun 21) - Sharpen  ·  ~6.2 h
