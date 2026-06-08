@@ -46,7 +46,16 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 - Openers skipped (athlete busy + already opened by Friday's tempo ride). Freshness for Sunday's
   climb prioritized. Pre-Race Openers workout removed from the Intervals.icu calendar.
 
-### Sun Jun 7 - 75 km endurance + timed climb (6 mi / 1500 ft) - pending
-- Plan: easy Z2 all day except the climb, which is a ~30-40 min hard threshold effort.
-- Log: climb time + avg/NP power, how the legs felt, fueling (g carbs/hr), RPE. The climb is a
-  strong ~35 min power data point to refine FTP and shape Week 2.
+### Sun Jun 7 - Condor Challenge: 71 km, ~1860 m, timed climb (DONE)
+- **Whole ride:** 3h52 moving, 71 km, ~1860 m climbing, NP 212, IF 0.78, TSS 235, HR avg 159 /
+  max 188, VI 1.34 (rolling/punchy). Big durability day carried on week's fatigue - strong.
+- **Timed climb (lap 1):** 37.2 min, 9.33 km, +489 m (5.2%), avg 230 W (3.11 W/kg), NP 257
+  (95% FTP), HR avg 179 (=LThr) / max 188, VAM 789 m/h.
+- **Pacing thirds: 274 / 181 / 234 W** - went out ~101% FTP, blew up mid-climb (181 W), rallied
+  late. Positive-split over-cook. HR pinned at threshold throughout = maximal cardio effort;
+  power fade = the aerobic-durability limiter again (cf. crit "dropped at the end").
+- **Reads:** FTP 272 still ~right (a touch generous under fatigue). Even pacing (~245 W) beats
+  274/181/234. Reinforces Week 2 threshold/sustained priority. Good grit on the final-third rally.
+- RPE: pending.
+- Tooling: athlete enabled "use laps for power intervals" - manual laps now come through the
+  API as icu_intervals, so segment analysis works going forward.
