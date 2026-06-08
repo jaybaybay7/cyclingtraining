@@ -26,17 +26,19 @@ _Introduce race-specific load; build gravel durability. Capped by Sunday's 60 mi
 | Sat | Jun 06 | OFF (athlete choice) | 0 min | Openers skipped: Friday's tempo ride already opened the legs, and freshness for Sunday's climb is the priority. Busy day off the bike. |
 | Sun | Jun 07 | 75 km endurance + 6 mi / 1500 ft timed climb | ~210 min | Easy Z2 all day except the climb. Climb = a ~30-40 min threshold effort: hold back the first 3-5 min, settle ~255-275 W (about FTP), build and empty the tank in the last 5. Fuel 60-90 g carbs/hr. Durability + a real threshold test for Truckee. |
 
-## Week 2 (Jun 08 - Jun 14) - Peak load  ·  ~8.0 h
-_Biggest week. Longest gravel ride with threshold efforts back-loaded onto tired legs
-(durability), plus solo top-end Tuesday. Fueling is now a trained skill: 80-90 g/hr. Then we
-only subtract._
+## Week 2 (Jun 08 - Jun 14) - Peak load (around travel)  ·  ~7.5 h
+_Built around travel Wed PM-Fri. Solo top-end Tuesday at home, easy maintenance while traveling,
+then Lost & Found Mid (94 km gravel) ridden as a training day = the long durability + fueling
+session. Not racing for place._
 
 | Day | Date | Session | Time | Intent |
 |-----|------|---------|------|--------|
 | Tue | Jun 09 | VO2 + threshold (SOLO, structured) | 80 min | Ride this one ALONE, not as a crit/group ride, so you actually hold the targets. 5 x 3 min @ 294-313 W (3 min easy), then 10 min @ 250-267 W. This is the repeatability work that stops you getting shelled at the end of repeated efforts (your Jun 2 RPE 8). The group rides already cover the punch. |
-| Thu | Jun 11 | Race-pace group ride + hockey (PM) | 100 min | Your race simulation. Cover surges and short climbs hard, ride the flats smart in the bunch. Hockey at night, so keep Friday clear. |
-| Sat | Jun 13 | Long gravel - peak + back-loaded threshold | 225 min | 3.75 h, longest ride of the block, durability-specific. Easy Z2 the first ~2.5 h, THEN 3 x 10 min @ 245-265 W in the final hour, on tired legs (that's the point - it trains the fade you hit at Condor). Fuel 80-90 g carbs/hr FROM THE START, eat before you're hungry. |
-| Sun | Jun 14 | Easy endurance spin | 75 min | Z2 150-185 W recovery-paced. Keep it gentle after the big Saturday. |
+| Wed | Jun 10 | Travel PM - off | 0 min | Traveling in the afternoon. Rest day as usual; move well, hydrate. |
+| Thu | Jun 11 | Easy maintenance (traveling) | 45-60 min | Hotel gym: easy Z2 Peloton spin 45-60 min, conversational. Keep it aerobic and gentle to protect Saturday. A 30 min easy run ONLY if there's no bike - running soreness can dull the race. |
+| Fri | Jun 12 | Travel - rest | 0 min | Off. Sleep, hydrate, and pre-fuel for Saturday. |
+| Sat | Jun 13 | RACE as training: Lost & Found Mid (94 km gravel) | ~4-4.5 h | NOT for place. First 2/3 controlled Z2-tempo, resist the early surges. Then push the climbs (esp. km 77, ~1.3 km @ 7%) at threshold 245-265 W in the back third = back-loaded durability, the Condor fade fix. Fuel 80-90 g carbs/hr FROM THE START. Altitude ~5,500 ft: pace the opening conservatively. |
+| Sun | Jun 14 | Easy recovery spin or off | 0-60 min | After a 4 h+ day, 60 min easy Z2 if the legs want it, else rest. Tell me how Sat went and I'll set this. |
 
 ## Week 3 (Jun 15 - Jun 21) - Sharpen  ·  ~6.2 h
 _Race-pace work, easing volume. Convert fitness to race readiness._

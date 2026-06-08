@@ -19,5 +19,18 @@
     "format": "Long endurance ride with ONE timed climb (~6 mi / 1500 ft, ~4.8% avg). Hard on the climb only, easy everywhere else. Not a mass-start race.",
     "train_through": true,
     "notes": "The timed climb is a ~30-40 min sustained near-threshold effort - exactly the limiter. Doubles as durability + a threshold test. Pull the segment afterward for an eFTP / ~35 min power data point to refine FTP and Week 2."
+  },
+  {
+    "name": "Lost & Found - Mid (Mid Moo)",
+    "date": "2026-06-13",
+    "discipline": "gravel",
+    "priority": "C",
+    "distance_km": 94,
+    "ascent_m": 940,
+    "location": "Portola / Lake Davis, CA (~5,500 ft altitude)",
+    "route_file": "Lost___Found_2026-_Mid_Moo.gpx",
+    "train_through": true,
+    "ridden_as": "training (NOT for place)",
+    "notes": "Mostly flat-to-rolling gravel with short punchy climbs (notable ~1.3 km @ 7% at km 77). Used as Week 2's long durability ride and a Truckee rehearsal: controlled first 2/3, back-loaded threshold on late climbs, 80-90 g carbs/hr from the start."
   }
 ]
