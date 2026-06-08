@@ -54,8 +54,13 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 - **Pacing thirds: 274 / 181 / 234 W** - went out ~101% FTP, blew up mid-climb (181 W), rallied
   late. Positive-split over-cook. HR pinned at threshold throughout = maximal cardio effort;
   power fade = the aerobic-durability limiter again (cf. crit "dropped at the end").
-- **Reads:** FTP 272 still ~right (a touch generous under fatigue). Even pacing (~245 W) beats
-  274/181/234. Reinforces Week 2 threshold/sustained priority. Good grit on the final-third rally.
-- RPE: pending.
+- **RPE:** 9/10 on the timed climb; left a touch in the tank.
+- **Bottle loss (key context):** dropped his only bottle ~halfway through the 37-min segment - it
+  held ALL his carbs + hydration. The mid-climb 181 W sag lines up with that timing, so the crater
+  is largely a fuel/hydration/logistics event, NOT pure aerobic fade. Revises the durability read
+  DOWN for this effort - fitness likely a bit better than the raw splits suggest.
+- **Reads:** FTP 272 still ~right. Durability + fueling remain focuses, but the headline lesson is
+  logistics: carry carbs in more than one place and secure bottles on rough courses. Even pacing
+  (~245 W) still beats 274/181/234.
 - Tooling: athlete enabled "use laps for power intervals" - manual laps now come through the
   API as icu_intervals, so segment analysis works going forward.

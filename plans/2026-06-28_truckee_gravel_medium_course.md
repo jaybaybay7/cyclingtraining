@@ -13,6 +13,9 @@ _Race: Sunday, June 28, 2026 (gravel, 106.5 km, 1233 m climbing). 26 days out as
   carbs/hr from the START on the long Saturdays; eat before you're hungry.
 - Durability (making power deep into a ride) is the limiter behind the fade. Built by long rides
   with efforts back-loaded onto tired legs; a season-long project, but started now.
+- Logistics (Condor lesson): a lost bottle mid-climb cost real power. Carry carbs in MORE than
+  one place - bottle PLUS gels/food in pockets - so losing one doesn't end your fueling. On rough
+  gravel use secure/side-entry cages or a hydration pack. Truckee is rough too. Test this at Lost & Found.
 
 ## Week 1 (Jun 01 - Jun 07) - Specific prep + timed climb  ·  ~8.7 h (Thu missed; Sat off)
 _Introduce race-specific load; build gravel durability. Capped by Sunday's 60 mi B race, which is the week's key long effort._
