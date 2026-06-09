@@ -37,7 +37,7 @@ session. Not racing for place._
 | Day | Date | Session | Time | Intent |
 |-----|------|---------|------|--------|
 | Tue | Jun 09 | Threshold 2x15 (SOLO, on Garmin) | 65 min | Solo so you actually hold the targets. 2 x 15 min @ 95-100% FTP (258-272 W), 5 min easy between. Sustained threshold = your limiter; lower fatigue than VO2, which matters with Lost & Found Saturday. Legs still flat from Condor? Drop to 2 x 12. Pushed to Intervals.icu. |
-| Wed | Jun 10 | Travel PM - off | 0 min | Traveling in the afternoon. Rest day as usual; move well, hydrate. |
+| Wed | Jun 10 | Optional recovery spin AM, travel PM | 0-40 min | If you want to move: 30-40 min PURE recovery (Z1, <150 W, HR <130) to flush Tue's intervals before travel. Otherwise full rest. NOT a Z2 endurance ride - bank freshness for Saturday. |
 | Thu | Jun 11 | Easy maintenance (traveling) | 45-60 min | Hotel gym: easy Z2 Peloton spin 45-60 min, conversational. Keep it aerobic and gentle to protect Saturday. A 30 min easy run ONLY if there's no bike - running soreness can dull the race. |
 | Fri | Jun 12 | Travel - rest | 0 min | Off. Sleep, hydrate, and pre-fuel for Saturday. |
 | Sat | Jun 13 | RACE as training: Lost & Found Mid (94 km gravel) | ~4-4.5 h | NOT for place. First 2/3 controlled Z2-tempo, resist the early surges. Then push the climbs (esp. km 77, ~1.3 km @ 7%) at threshold 245-265 W in the back third = back-loaded durability, the Condor fade fix. Fuel 80-90 g carbs/hr FROM THE START. Altitude ~5,500 ft: pace the opening conservatively. |
