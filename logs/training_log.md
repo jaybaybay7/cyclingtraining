@@ -64,3 +64,15 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
   (~245 W) still beats 274/181/234.
 - Tooling: athlete enabled "use laps for power intervals" - manual laps now come through the
   API as icu_intervals, so segment analysis works going forward.
+
+## Week 2 (Truckee block)
+
+### Tue Jun 9 - Threshold 2x15 (solo, pushed to Garmin)
+- **Actual:** 85 min, TSS 106, IF 0.86. Work blocks: 282 W / 281 W (~104% FTP), avg HR 169 both
+  (LThr 180), max 174-175, decoupling 4.1% / 3.4%. No fade between reps.
+- **RPE / feel:** "pretty hard but HR never got extremely elevated; legs fatigued at end of 2nd."
+- **Read:** Rode ABOVE the 258-272 target (~104% FTP) but executed it beautifully - even,
+  repeatable, well-coupled. HR 11 bpm under threshold while holding 104% FTP + no fade + low
+  decoupling = FTP looks underset. eFTP already 277. **Recommend FTP 272 -> ~278.** Legs (not
+  lungs) as limiter = the muscular threshold-endurance system, exactly the target. Encouraging.
+- **Note:** classifier read it as "vo2" (time >286 W) since he rode it hot; fine, accepted.
