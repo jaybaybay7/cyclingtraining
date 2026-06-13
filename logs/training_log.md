@@ -84,6 +84,12 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
 - **9-min finishing effort (on tired legs, ~2.5h in):** 280 W (101% FTP, 3.79 W/kg), thirds
   291/282/268 (positive split ~8%), HR avg 182 / max 189, decoupling 7.9%. Back-loaded power = the
   target adaptation, produced it without collapse.
+- **"Up to the Bridge" 3-min VO2 (3h36 in, near the end):** 316 W (114% FTP, 4.27 W/kg),
+  NEGATIVE split 301/320/326, HR avg 178 / max 189, decoupl 4.8%. Top-end durability holds deep
+  in the ride; notably he paced this one perfectly (built into it) - proof he CAN negative-split
+  when he commits, unlike the climb/9-min efforts.
 - **Read:** Clear durability improvement vs Condor (which cratered mid-climb). Pacing discipline on
   the climb was excellent; the 9-min effort still goes out a hair hot (start ~275, hold flatter).
   Confirms FTP 278 (HR behavior at 250/280 W lines up). Strong peak-week session. Taper next.
+  Coaching: the negative-split bridge effort shows pacing is a choice for him - apply it to
+  threshold/long efforts. Stop adding bonus max efforts in the sharpen/taper.
