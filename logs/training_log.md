@@ -93,3 +93,11 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
   Confirms FTP 278 (HR behavior at 250/280 W lines up). Strong peak-week session. Taper next.
   Coaching: the negative-split bridge effort shows pacing is a choice for him - apply it to
   threshold/long efforts. Stop adding bonus max efforts in the sharpen/taper.
+- **CORRECTION - Garmin disagrees:** Garmin lowered his FTP and VO2max and labeled this ride
+  "very unproductive." My read leaned optimistic. The low HR for the power that I credited to
+  fitness is equally a fatigue/under-recovery signal, and I'm reading recovery BLIND (no Garmin
+  HRV/sleep connected). Honest net: he likely executed well ON accumulated fatigue without an
+  actual fitness gain - which is exactly what "unproductive" means. The FTP bump to 278 was too
+  hasty on one confounded session; recommend reverting to 272 and confirming with a fresh test.
+  Given the stacked load all block (cross-training, missed recovery, travel, low sleep), weight
+  the under-recovery signal. Two weeks to Truckee: recovery + taper now outrank any session.
