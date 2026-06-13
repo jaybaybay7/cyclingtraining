@@ -43,25 +43,36 @@ session. Not racing for place._
 | Sat | Jun 13 | RACE as training: Lost & Found Mid (94 km gravel) | ~4-4.5 h | NOT for place. First 2/3 controlled Z2-tempo, resist the early surges. Then push the climbs (esp. km 77, ~1.3 km @ 7%) at threshold 245-265 W in the back third = back-loaded durability, the Condor fade fix. Fuel 80-90 g carbs/hr FROM THE START. Altitude ~5,500 ft: pace the opening conservatively. |
 | Sun | Jun 14 | Easy recovery spin or off | 0-60 min | After a 4 h+ day, 60 min easy Z2 if the legs want it, else rest. Tell me how Sat went and I'll set this. |
 
-## Week 3 (Jun 15 - Jun 21) - Sharpen  ·  ~6.2 h
-_Race-pace work, easing volume. Convert fitness to race readiness._
+## Week 3 (Jun 15 - Jun 21) - Camp lead-in + 3-day team camp  ·  ~16 h (volume)
+_No hockey this week. Mon-Thu is a light, well-fueled lead-in so you arrive at the camp FRESH;
+the camp itself is the final big durability block (~200 mi over 3 days). Ride it as social
+volume, not a race - especially Saturday. It only helps Truckee if you recover hard afterward._
 
 | Day | Date | Session | Time | Intent |
 |-----|------|---------|------|--------|
-| Tue | Jun 16 | Threshold / sweet spot | 70 min | 2 x 12 min @ 250-272 W. Hold steady, smooth power. Building usable race-pace strength. |
-| Thu | Jun 18 | Race-pace group ride + hockey (PM) | 90 min | Your race simulation. Cover surges and short climbs hard, ride the flats smart in the bunch. Hockey at night, so keep Friday clear. |
-| Sat | Jun 20 | Race-effort gravel | 150 min | 2.5 h with 4 x 6 min at race intensity 245-272 W on rolling/gravel terrain. Dial in pacing and gearing, not duration. |
-| Sun | Jun 21 | Easy endurance spin | 60 min | Z2 150-185 W short and easy. Start shedding fatigue. |
+| Mon | Jun 15 | Recover / off | 0-40 min | Recover from Sat's 254 TSS + the Garmin fatigue flag. Big sleep. Optional 30-40 min easy spin only; otherwise off. |
+| Tue | Jun 16 | Easy endurance | 60-75 min | Z2 165-205 W. If legs feel genuinely good, add 2 x 8 min sweet spot - but bank reserve for the camp. Don't make this hard. |
+| Wed | Jun 17 | Easy spin AM + volleyball PM | 40 min | Z1-Z2 easy spin. Volleyball at night is your cross-training load; keep the bike gentle. |
+| Thu | Jun 18 | Pre-camp openers or off | 0-30 min | 20 min easy + 3 x 1 min builds, or just rest. Goal: fresh legs Friday. |
+| Fri | Jun 19 | CAMP day 1: ~60 mi (lunch split) | ~4 h | Social aerobic Z2. The mid-ride lunch = built-in recovery. Fuel 80-90 g/hr, test your bottle/cage setup (Condor lesson). |
+| Sat | Jun 20 | CAMP day 2: ~80 mi (hardest) | ~5 h | The big one. Endurance pace, climbs as steady tempo, DON'T race it. Durability + Truckee rehearsal. Fuel impeccably. |
+| Sun | Jun 21 | CAMP day 3: ~60 mi (lunch split) | ~4 h | On tired legs = durability gold and the closest thing to Truckee's back half. Keep it chill, steady Z2, finish the block. |
 
-## Week 4 (Jun 22 - Jun 28) - Taper & Race  ·  ~7.0 h
-_Shed fatigue, stay sharp, arrive fresh. Race day._
+## Week 4 (Jun 22 - Jun 28) - Absorb camp + taper to race  ·  ~4 h + race
+_This week makes or breaks Truckee. The camp lands 7 days out, so front-load recovery, then just
+enough sharpening to wake the legs. If in doubt, rest. Arriving fresh beats arriving fit-but-flat._
 
 | Day | Date | Session | Time | Intent |
 |-----|------|---------|------|--------|
-| Tue | Jun 23 | Openers | 50 min | 3 x 3 min @ 250-267 W + 3 x 30 s fast, light spin between. Stay sharp, accumulate no fatigue. |
-| Thu | Jun 25 | Easy group ride or spin + hockey (PM) | 60 min | Keep it social and easy this week, do NOT bury yourself on the group ride. Hockey optional / light if you can. Freshness is the priority. |
-| Sat | Jun 27 | Pre-race openers | 40 min | Easy Z1 with 3 x 1 min building to race pace 245-272 W and 3 x 10 s sprints. Primes the legs for tomorrow. Check the bike, pack. |
-| Sun | Jun 28 | RACE: Truckee Gravel Medium (106 km) | 270 min | Pace the first hour conservatively (altitude + long day). Fuel from the gun, 60-90 g carbs/hr. Use your strength: stay efficient on flats, cover moves on the climbs, save matches for the back third. |
+| Mon | Jun 22 | Full rest | 0 min | Off. Sleep, refuel, legs up. You just rode ~200 mi. |
+| Tue | Jun 23 | Easy recovery spin | 45 min | Z1 very easy, flush the camp. Nothing hard. |
+| Wed | Jun 24 | Short openers | 45 min | 3 x 3 min @ threshold (258-272 W), easy between. First quality touch since the camp; keep it short. |
+| Thu | Jun 25 | Easy or off | 0-40 min | Easy Z2 or rest by feel. Recovery still the priority. |
+| Fri | Jun 26 | Short openers | 35 min | Easy + 3 x 1 min builds + a couple 10 s spin-ups. Sharp, not tired. |
+| Sat | Jun 27 | Travel + pre-race openers | 30 min | Travel to Truckee; short easy spin with 2-3 short efforts. Hydrate at altitude, recon, pack, pre-fuel. |
+| Sun | Jun 28 | RACE: Truckee Gravel Medium (106 km) | ~4-4.5 h | Pace the first hour conservatively (altitude + long day). Fuel 80-90 g/hr FROM THE START, carbs in 2+ places + secure bottles (Condor lesson). Steady on flats, cover the climbs, save matches for the back third. |
 
 ---
-_Rest days: Mon, Wed, Fri (Fri protects recovery after Thursday hockey). Readiness is advisory: if HRV/sleep tank, swap a quality day for easy Z2 or rest. Tell the coach about travel or missed days and the week re-flows._
+_FTP held at 278 but unconfirmed (one session, Garmin disagrees); settle it with a fresh test
+after Truckee, not before. Readiness is advisory: if you wake up cooked, downgrade or rest -
+this is a fatigue-sensitive stretch. Tell the coach about changes and the week re-flows._
