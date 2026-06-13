@@ -76,3 +76,14 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
   decoupling = FTP looks underset. eFTP already 277. **Recommend FTP 272 -> ~278.** Legs (not
   lungs) as limiter = the muscular threshold-endurance system, exactly the target. Encouraging.
 - **Note:** classifier read it as "vo2" (time >286 W) since he rode it hot; fine, accepted.
+
+### Sat Jun 13 - skipped Lost & Found race; solo 92 km / 57 mi durability ride
+- **Whole ride:** 3h32, 92 km, 1520 m, NP 236, IF 0.85 (on FTP 278), TSS 254. Big solo day.
+- **Sustained climb:** 44 min @ 250 W (90% FTP, 3.38 W/kg), thirds 253/255/243 (near-even),
+  HR avg 167 / max 181, **decoupling 4.0%**. Strong aerobic durability - held steady, minimal fade.
+- **9-min finishing effort (on tired legs, ~2.5h in):** 280 W (101% FTP, 3.79 W/kg), thirds
+  291/282/268 (positive split ~8%), HR avg 182 / max 189, decoupling 7.9%. Back-loaded power = the
+  target adaptation, produced it without collapse.
+- **Read:** Clear durability improvement vs Condor (which cratered mid-climb). Pacing discipline on
+  the climb was excellent; the 9-min effort still goes out a hair hot (start ~275, hold flatter).
+  Confirms FTP 278 (HR behavior at 250/280 W lines up). Strong peak-week session. Taper next.
