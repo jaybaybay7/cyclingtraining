@@ -118,4 +118,9 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
   day 7 days before the A race, on an ankle sprained 4 days prior, doesn't replace a 3-day camp's
   adaptation, won't add fitness in 7 days, and risks fatigue + ankle aggravation. Next 7 days =
   strict taper + ankle care, no make-up loads. FTP stays 278 (athlete's call).
-- **OPEN:** how did the ankle tolerate 5+ h, and current swelling/pain? Drives the taper.
+- **Ankle:** felt relatively fine during/after the 5+ h ride - injury concern eased; monitor
+  through the taper, avoid anything that tweaks it.
+- **Fueling:** ~700 g carbs (~130 g/hr) - excellent, near the trained gut ceiling, and a big
+  reason power held with only 3.9% decoupling (clean contrast to the Condor underfuel crater).
+  (My 250 g estimate was way too low.) Truckee plan: replicate 120-130 g/hr from the start,
+  carbs split bottle + pockets, secure bottles. Fueling for Truckee is effectively solved.
