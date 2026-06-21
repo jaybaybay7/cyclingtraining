@@ -101,3 +101,21 @@ happened (from the Intervals.icu power stream), RPE, and the coaching read.
   hasty on one confounded session; recommend reverting to 272 and confirming with a fresh test.
   Given the stacked load all block (cross-training, missed recovery, travel, low sleep), weight
   the under-recovery signal. Two weeks to Truckee: recovery + taper now outrank any session.
+
+## Week 3 (Jun 15-21) - lead-in / missed camp
+
+### Wed Jun 17 - volleyball: ANKLE SPRAIN
+- Sprained ankle playing volleyball (PM). Took Thu + Fri completely off. Sat Jun 20: short
+  shakeout ride (39 min) + open-water swim + strength. MISSED the 3-day team camp (Jun 19-21).
+
+### Sun Jun 21 - solo 144 km / 90 mi "make-up" ride (replaced the missed camp)
+- **Whole ride:** 5h21 moving, 144 km, 1353 m, NP 200, IF 0.72, VI 1.20, TSS 277, **3234 kJ**,
+  HR avg 144 / max 190. Endurance-paced. Z1+Z2 ~220 min, ~100 min tempo+, ~16 min VO2+.
+- **Durability (the goal):** whole-ride Pw:HR decoupling +3.9% over 5+ h = strong aerobic
+  durability. Late climbs held near threshold DEEP in the ride: @4.5h 264 W (95% FTP, HR 170),
+  @5h 257 W (92%, HR 175). No late collapse - durability genuinely good, big improvement on Condor.
+- **Honest read:** ride executed well; the DECISION was the over-doing pattern. A 277-TSS / 3234-kJ
+  day 7 days before the A race, on an ankle sprained 4 days prior, doesn't replace a 3-day camp's
+  adaptation, won't add fitness in 7 days, and risks fatigue + ankle aggravation. Next 7 days =
+  strict taper + ankle care, no make-up loads. FTP stays 278 (athlete's call).
+- **OPEN:** how did the ankle tolerate 5+ h, and current swelling/pain? Drives the taper.
